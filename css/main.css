@@ -483,3 +483,40 @@ color: #fff;
 font: 200 18px/16px "Avenir-Heavy" 
 }
 /* ================ End category ==================*/
+/* ================ Profile ==================*/
+.profile-cont{
+ background-color: #efefef;
+padding-top: 144.82px;
+}
+.topp{
+background-color:purple; 
+font:100 16px/2px 'Avenir-Heavy';
+color: #fff;
+padding: 22px 0px 22px 48px;
+height: 66px;
+}
+.profile-left{
+ background-color: #fff;
+    height: 828px;
+ 
+}
+.profile-right{
+margin-bottom: 126.18px;
+background-color: #fff;
+margin-left: 40px;
+padding:0px 0px 51px 0px; 
+}
+.port-img{
+padding-left:0px; 
+}
+.topp2{
+background-color:purple; 
+margin-top: 32px;
+font:100 16px/2px 'Avenir-Heavy';
+color: #fff;
+height: 66px;
+}
+.bottom-pr{
+height: 263px;
+}
+/* ================ Profile ==================*/
