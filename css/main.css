@@ -435,3 +435,51 @@ footer{
         padding-left: 10px;
     }
 }
+/* ================ Search result ==================*/
+.all{
+ background-color: #efefef;
+     } 
+.Searchh{
+    height: 161px;
+    background-color: #59017d;
+    padding: 81px 65px 58px 65px;
+}
+.searchs{
+    border-top: 0px;
+    border-bottom:0.5px solid ;
+    border-right:0px; 
+    border-left:0px; 
+    background-color: transparent;
+    border-radius: 0px;
+    color: #fff;
+}
+.result{      
+     margin-top: 50px;     
+}
+.ress{
+    height: 176px;
+    background-color: white;
+    padding-bottom: 12px;
+    border-bottom: 2px solid;
+}
+.rphoto {
+    height: 164px;
+    padding-left: 0px;
+    background-size: cover;
+}
+/* ================ End of Search result ==================*/
+
+/* ================ Category ==================*/
+.cata{
+    background-color:#efefef;
+    padding-bottom:123.18px;   
+    padding-top:123.18px;   
+}
+/* ================ End category ==================*/
+.head{
+background-color: purple;
+padding: 60px 0px 0px 0px;
+height: 230px;
+color: #fff;
+font: 200 18px/16px "Avenir-Heavy" 
+}
